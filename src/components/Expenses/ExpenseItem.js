@@ -6,7 +6,7 @@ import './ExpenseItem.css';
 const ExpenseItem = (props) => {
 
     const clickHandler = () => {
-        console.log('Clicked!!!');
+        console.log('Clicked!!');
     }
 
     return (
